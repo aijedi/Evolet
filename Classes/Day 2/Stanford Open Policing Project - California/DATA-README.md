@@ -1,3 +1,7 @@
+# Data Download Link
+https://www.kaggle.com/stanford-open-policing/stanford-open-policing-project-california/downloads/DATA-README.md/1
+
+
 # Data Readme
 
 This README explains how to make best use of the data from the Stanford Open Policing Project. We provide an overview of the data, and a list of best practices for working with the data. 
